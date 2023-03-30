@@ -1,5 +1,5 @@
-# Ret Hunter Guide
-# Table of Contents
+## Ret Hunter Guide
+## Table of Contents
 ## [Introduction](#introduction)
 
 ## [Hpal/War](#war-pala-910)
