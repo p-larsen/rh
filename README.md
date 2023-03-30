@@ -1,4 +1,3 @@
-# Ret Hunter Guide
 # Table of Contents
 ## [Introduction](#introduction)
 
